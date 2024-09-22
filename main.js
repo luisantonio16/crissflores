@@ -4,7 +4,7 @@ onload = () => {
 
 
   document.addEventListener('DOMContentLoaded', function() {
-    const titles = ['para Jahaziel', 'Una mujer con una risa encantadora'];
+    const titles = ['para Shayna', 'la mujer mas sexy de todas'];
     let index = 0;
   
     function changeTitle() {
